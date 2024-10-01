@@ -2,40 +2,6 @@
 
 This repository showcases a collection of machine learning and deep learning projects implemented across various algorithms and datasets. The projects cover different tasks, including classification, clustering, dimensionality reduction, and deep learning-based image recognition.
 
-## Repository Structure
-
-The repository is organized into the following sections:
-
-```
-classifiers/
-    knn_vs_naive_vs_logistic/
-        knn_vs_naive_vs_logistic.ipynb
-        README.md
-        titanic_train.csv
-    logistic_regression/
-        logistic_regression.ipynb
-        README.md
-        Student-Pass-Fail-Data.csv
-    trees/
-        decision_tree_vs_random_forest.ipynb
-        README.md
-        titanic_train.csv
-clustering/
-    dbscan_vs_kmeans.ipynb
-    hierarchical_vs_kmeans.ipynb
-    Mall_Customers.csv
-    README.md
-deep_learning/
-    human_activity_recognision.ipynb
-    README.md
-pca/
-    pca_dbscan.ipynb
-    README.md
-    titanic_train.csv
-README.md
-requirements.txt
-```
-
 ### Key Folders:
 1. **classifiers**: Implements various classification algorithms on datasets like Titanic survival prediction and student performance.
 2. **clustering**: Focuses on clustering algorithms (DBSCAN, KMeans, and Hierarchical) applied to customer segmentation and performance comparison.
