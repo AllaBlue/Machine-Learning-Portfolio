@@ -1,0 +1,43 @@
+# Ignore the output folder
+/output/
+
+# Ignore the HAR_Images zip file
+/HAR_Images.zip
+
+# Ignore the HAR_Images extracted folder
+/HAR_Images/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore temporary and log files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore test output
+*.out
+*.err
+*.coverage
+coverage/
