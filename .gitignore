@@ -1,11 +1,11 @@
 # Ignore the output folder
-/output/
+deep_learning/output/
 
 # Ignore the HAR_Images zip file
-/HAR_Images.zip
+deep_learning/HAR_Images.zip
 
 # Ignore the HAR_Images extracted folder
-/HAR_Images/
+deep_learning/HAR_Images/
 
 # Ignore Python bytecode files
 __pycache__/
